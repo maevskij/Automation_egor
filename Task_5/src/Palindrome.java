@@ -1,22 +1,22 @@
 import java.util.Scanner;
 
-public class Palindrom {
+public class Palindrome {
 
     public static void main(String[] args){
         System.out.println("Введите слово в нижнем регистре:");
         Scanner in = new Scanner(System.in);
         String s = in.next();
-        isPalindrom (s);
+        isPalindrome(s);
     }
-    public static String reverseString(String s){
-        String r = "";
+    private static String reverseString(String s){
+        StringBuilder r = new StringBuilder();
         for (int i = s.length() - 1; i >= 0; --i)
-            r += s.charAt(i);
-        return r;
+            r.append(s.charAt(i));
+        return r.toString();
 
 
     }
-    public static void isPalindrom (String s) {
+    private static void isPalindrome(String s) {
         if(s.equals(reverseString(s))){
             System.out.println("Палиндром");
         }else{
