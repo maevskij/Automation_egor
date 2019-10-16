@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85bbfae4-57b6-4dff-9032-06160f9baa8a" name="Default Changelist" comment="" />
+    <list default="true" id="9a1ff5d4-0e9d-41bd-b686-119670a24e4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Task_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +18,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SFkkBz3OgqxhmyXDK9XLy5IrjF" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Task_7" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectId" id="1SHo9n8QsC8EW6Nqc1ZlWxsYG9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -32,31 +35,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
-      <module name="Task_6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Calculator" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="85bbfae4-57b6-4dff-9032-06160f9baa8a" name="Default Changelist" comment="" />
-      <created>1571166871586</created>
+      <changelist id="9a1ff5d4-0e9d-41bd-b686-119670a24e4d" name="Default Changelist" comment="" />
+      <created>1571229732628</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571166871586</updated>
+      <updated>1571229732628</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
